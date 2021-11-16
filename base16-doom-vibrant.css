@@ -1,20 +1,20 @@
 :root {    /* Doom vibrant */
-    --base00: #2E3440;
-    --base01: #3B4252;
-    --base02: #434C5E;
-    --base03: #4C566A;
-    --base04: #D8DEE9;
-    --base05: #E5E9F0;
-    --base06: #ECEFF4;
-    --base07: #8FBCBB;
-    --base08: #BF616A;
-    --base09: #D08770;
-    --base0A: #EBCB8B;
-    --base0B: #A3BE8C;
-    --base0C: #88C0D0;
-    --base0D: #81A1C1;
-    --base0E: #B48EAD;
-    --base0F: #5E81AC;
+    --base00: #242730;
+    --base01: #2a2e38;
+    --base02: #484854;
+    --base03: #62686E;
+    --base04: #bbc2cf;
+    --base05: #5D656B;
+    --base06: #bbc2cf;
+    --base07: #4db5bd;
+    --base08: #5cEfFF;
+    --base09: #51afef;
+    --base0A: #C57BDB;
+    --base0B: #ff665c;
+    --base0C: #e69055;
+    --base0D: #FCCE7B;
+    --base0E: #7bc275;
+    --base0F: #C57BDB;
 
 
     --tridactyl-fg: var(--base05);
